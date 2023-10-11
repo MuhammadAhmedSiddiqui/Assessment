@@ -1,0 +1,5 @@
+-r base.txt
+
+# Any local environment specific Django modules
+# ------------------------------------------------------------------------------
+django-debug-toolbar

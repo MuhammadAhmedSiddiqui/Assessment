@@ -1,0 +1,1 @@
+from src.product.models.product import *
